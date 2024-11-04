@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://aduyuino.github.io/Phu/sitemap_index.txt
+Sitemap: https://aduyuino.github.io/UVI/sitemap_index.txt
+Sitemap: https://aduyuino.github.io/oKa/sitemap_index.txt
+Sitemap: https://aduyuino.github.io/olV/sitemap_index.txt
